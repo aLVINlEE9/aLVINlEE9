@@ -1,4 +1,4 @@
-[![seungsle's 42 stats](https://badge42.herokuapp.com/api/stats/seungsle?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![seungsle's 42 stats](https://badge42.herokuapp.com/api/stats/seungsle?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 |Circle|Project|Score|Date|
 |----|----|----|----|
 |00|Libft|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/Libft)](https://github.com/JaeSeoKim/badge42)|2021.05.25
