@@ -5,6 +5,6 @@
 |01|netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/netwhat)](https://github.com/JaeSeoKim/badge42)|2021.05.28
 |01|get_next_line|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/get_next_line)](https://github.com/JaeSeoKim/badge42)|2021.06.04
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLVINlEE9&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLVINlEE9&theme=bg_color&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aLVINlEE9)](https://github.com/aLVINlEE9/github-readme-stats)
